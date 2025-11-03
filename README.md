@@ -12,9 +12,6 @@ Passionate developer specializing in modern web technologies . Always learning a
 - **Backend**: Laravel, Django
 - **Tools**: Git, GitHub, VS Code
 
-## 📊 GitHub Stats
-![Djenidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=djenidisimple&show_icons=true&theme=dracula)
-
 ## 🚀 My Tech Stack
 
 ### **Frontend:**
@@ -30,12 +27,20 @@ Passionate developer specializing in modern web technologies . Always learning a
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
 
-## 📈 Current Stack
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djenidisimple&layout=donut-vertical&theme=algolia&hide_border=true&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djenidisimple&theme=dracula&hide_border=true)
+
+</div>
 
 
 ## 📱 Social Media
 
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votreprofil)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_For_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/votrepseudo)
+
+</div>
