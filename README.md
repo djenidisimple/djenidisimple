@@ -30,7 +30,6 @@ Passionate full-stack developer specializing in creating innovative web applicat
 <div align="center">
 
 ![Djenidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=djenidisimple&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djenidisimple&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djenidisimple&layout=compact&theme=radical&hide_border=true)
 
 </div>
