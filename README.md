@@ -39,7 +39,6 @@ Passionate full-stack developer specializing in creating innovative web applicat
 
 <div align="center">
 
-<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) -->
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_For_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/💻_GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djenidisimple)
