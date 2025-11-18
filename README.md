@@ -1,5 +1,5 @@
-<div style="position: relative; width: 100%; margin-bottom: 20px;">
-  <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
+<div style="position: relative; width: 100%;">
+  <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px;" />
   <a href="https://github.com/djenidisimple" style="position: absolute; top: 10px; right: 10px;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />
   </a>
