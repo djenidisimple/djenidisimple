@@ -1,11 +1,5 @@
 <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
 
-<div align="right" style="margin-top: -50px; margin-right: 15px;"> 
-  <a href="https://github.com/djenidisimple" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />
-  </a>
-</div>
-
 <div align="center">
   
 # 👋 Hello, I'm Djenidi Simple
