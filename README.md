@@ -1,10 +1,7 @@
 <div style="position: relative; width: 100%; margin-bottom: 20px;">
   <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
-  
-  <a href="https://github.com/djenidisimple" style="position: absolute; top: 10px; right: 10px; color: #fff; text-decoration: none;">
-    <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="display: block;">
-      <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.8 8.205 11.385.6.108.825-.258.825-.573 0-.285-.015-1.041-.015-2.046-3.33 0-4.041-1.611-4.2-3.885-.195-.495-.96-1.611-1.65-2.046-.57-.39-.93-.945-.015-.96 1.485-.015 2.157 1.407 2.457 1.83.6 1.026 1.956.735 2.592.561.06-.438.234-.735.42-1.023-1.98-.225-4.05-1.023-4.05-4.524 0-1.005.345-1.83.915-2.475-.09-.225-.39-1.17.09-2.445 0 0 .735-.234 2.4-.915 1.725.48 3.57.48 5.295 0 1.665.681 2.4 1.206 2.4.915.48 1.275.18 2.22.09 2.445.57.645.915 2.475.915 4.524 0 3.51-2.07 4.296-4.05 4.524.315.27.615.84.615 1.71 0 1.23-.015 2.226-.015 2.535 0 .315.225.684.825.573C20.565 21.801 24 17.316 24 12 24 5.37 18.63 0 12 0z"/>
-    </svg>
+  <a href="https://github.com/djenidisimple" style="position: absolute; top: 10px; right: 10px;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />
   </a>
 </div>
 
