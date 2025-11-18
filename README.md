@@ -1,6 +1,7 @@
-<div style="position: relative; width: 100%;">
-  <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px;" />
-  <a href="https://github.com/djenidisimple" style="position: absolute; top: 10px; right: 10px;">
+<img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
+
+<div align="right" style="margin-top: -50px; margin-right: 15px;"> 
+  <a href="https://github.com/djenidisimple" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40px" />
   </a>
 </div>
