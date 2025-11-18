@@ -1,55 +1,68 @@
+<div style="position: relative; width: 100%; margin-bottom: 20px;">
+  <img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
+  
+  <a href="https://github.com/djenidisimple" style="position: absolute; top: 10px; right: 10px; color: #fff; text-decoration: none;">
+    <svg width="30" height="30" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg" style="display: block;">
+      <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.8 8.205 11.385.6.108.825-.258.825-.573 0-.285-.015-1.041-.015-2.046-3.33 0-4.041-1.611-4.2-3.885-.195-.495-.96-1.611-1.65-2.046-.57-.39-.93-.945-.015-.96 1.485-.015 2.157 1.407 2.457 1.83.6 1.026 1.956.735 2.592.561.06-.438.234-.735.42-1.023-1.98-.225-4.05-1.023-4.05-4.524 0-1.005.345-1.83.915-2.475-.09-.225-.39-1.17.09-2.445 0 0 .735-.234 2.4-.915 1.725.48 3.57.48 5.295 0 1.665.681 2.4 1.206 2.4.915.48 1.275.18 2.22.09 2.445.57.645.915 2.475.915 4.524 0 3.51-2.07 4.296-4.05 4.524.315.27.615.84.615 1.71 0 1.23-.015 2.226-.015 2.535 0 .315.225.684.825.573C20.565 21.801 24 17.316 24 12 24 5.37 18.63 0 12 0z"/>
+    </svg>
+  </a>
+</div>
+
+<div align="center">
+  
 # 👋 Hello, I'm Djenidi Simple
 
 **Full Stack Developer | Modern Web Solutions**
+  
+<hr style="border: 1px solid #333; width: 50%; margin: 15px auto;">
+  
+<div style="background-color: #1f2022; padding: 20px; border-radius: 10px; border: 1px solid #333; margin-top: 30px;">
+  
+## 🚀 About Me
+  
+<p align="center" style="font-size: 1.1em; color: #ccc;">
+  Passionate full-stack developer specializing in creating innovative web applications. I love transforming ideas into functional, user-friendly digital experiences using cutting-edge technologies.
+</p>
+
+</div>
+  
+</div>
 
 ---
 
-## 🚀 About Me
-Passionate full-stack developer specializing in creating innovative web applications. I love transforming ideas into functional, user-friendly digital experiences using cutting-edge technologies.
-
 ## 🛠️ Tech Stack
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,next,java,php,cs,cpp,figma,django,mysql,git,vscode&perline=6&theme=dark" />
+</p>
 
-### **Backend Development**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+---
 
-### **Tools & Technologies**
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## 💻 My GitHub Stats
 
-## 📊 GitHub Analytics
+<div align="center" style="margin-top: 20px;">
+  
+  
+[![djenidisimple's Stats](https://github-readme-stats.vercel.app/api?username=djenidisimple&theme=highcontrast&show_icons=true&hide_border=true&title_color=007bff&icon_color=007bff&text_color=ccc&bg_color=1f2022)](https://github.com/djenidisimple)
 
-<div align="center">
-
-![Djenidi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=djenidisimple&show_icons=true&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=djenidisimple&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djenidisimple&layout=compact&theme=radical&hide_border=true)
+[![djenidisimple's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djenidisimple&theme=highcontrast&show_icons=true&hide_border=true&layout=compact&title_color=007bff&icon_color=007bff&text_color=ccc&bg_color=1f2022)](https://github.com/djenidisimple)
 
 </div>
+
+---
 
 ## 🌐 Let's Connect
 
 <div align="center">
-
-<!-- [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-FF7139?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) -->
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Professionally-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow_For_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/djenidisimple)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ *From [Djenidi Simple](https://github.com/djenidisimple)*
+  
+<a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" style="margin: 0 5px;">
+</a>
+<a href="https://twitter.com/yourusername" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" style="margin: 0 5px;">
+</a>
+<a href="https://github.com/djenidisimple" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" style="margin: 0 5px;">
+</a>
 
 </div>
