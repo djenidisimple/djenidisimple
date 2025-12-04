@@ -10,7 +10,7 @@
   
 ## 🚀 About Me
   
-<p align="center" style="font-size: 1.1em; color: #ccc;">
+<p style="font-size: 1.1em; color: #ccc;">
   Passionate full-stack developer specializing in creating innovative web applications. I love transforming ideas into functional, user-friendly digital experiences using cutting-edge technologies.
 </p>
 
