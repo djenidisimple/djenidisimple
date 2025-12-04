@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   
 # 👋 Hello, I'm Djenidi Simple
 
@@ -6,7 +6,7 @@
   
 <hr style="border: 1px solid #333; width: 50%; margin: 15px auto;">
   
-<div style="background-color: #1f2022; padding: 20px; border-radius: 10px; border: 1px solid #333; margin-top: 30px;">
+<div>
   
 ## 🚀 About Me
   
