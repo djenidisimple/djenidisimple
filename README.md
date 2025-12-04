@@ -1,5 +1,3 @@
-<img src="./fad.jfif" alt="Background" width="100%" style="border-radius: 10px; display: block;" />
-
 <div align="center">
   
 # 👋 Hello, I'm Djenidi Simple
