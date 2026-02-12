@@ -4,10 +4,6 @@
   Full Stack Developer • Modern Web Architect • Creative Thinker
 </h3>
 
-<p align="left">
-  <img src="https://www.codewars.com/users/djenidi/badges/large" />
-</p>
-
 ---
 
 ## 🧠 About Me
@@ -34,6 +30,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=djenidisimple&show_icons=true&theme=github_dark&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djenidisimple&theme=github-dark&hide_border=true" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://www.codewars.com/users/djenidi/badges/large" />
 </p>
 
 ---
