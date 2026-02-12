@@ -4,7 +4,7 @@
   Full Stack Developer • Modern Web Architect • Creative Thinker
 </h3>
 
-<p align="center">
+<p align="left">
   <img src="https://www.codewars.com/users/djenidi/badges/large" />
 </p>
 
