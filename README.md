@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products;Clean+Code+%7C+Great+UX+%7C+Performance" />
+  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Products;Clean+Code+%7C+Great+UX+%7C+Performance](https://www.codewars.com/users/djenidi/badges/large)" />
 </p>
 
 ---
