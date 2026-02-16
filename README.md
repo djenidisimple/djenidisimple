@@ -32,10 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=djenidisimple&theme=github-dark&hide_border=true" height="165" />
 </p>
 
-<p align="left">
-  <img src="https://www.codewars.com/users/djenidi/badges/large" />
-</p>
-
 ---
 
 ## 🌐 Let's Connect
