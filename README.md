@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://x.com/djendisimple15" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="45" />
+    <img src="[https://skillicons.dev/icons?i=twitter](https://iconscout.com/free-icon/free-twitter-x-logo-icon_8589161)" width="45" />
   </a>
   <a href="https://github.com/djenidisimple" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" />
