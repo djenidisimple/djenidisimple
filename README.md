@@ -1,8 +1,6 @@
-<h1 align="center">👋 Hi, I'm Djenidi Simple</h1>
+# 👋 Hi, I'm Djenidi Simple
 
-<h3 align="center">
-  Full Stack Developer • Modern Web Architect • Creative Thinker
-</h3>
+### Full Stack Developer • Modern Web Architect • Creative Thinker
 
 ---
 
